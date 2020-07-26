@@ -1,0 +1,20 @@
+
+
+
+.EditPopup{
+        
+    position: absolute;
+}
+
+
+.EditPopup input{
+    border: 1px solid #106879;
+    background-color:#08869e;
+    outline: none;
+    color:#08869e;
+    background-color: #055565;
+    box-shadow: 0 7px 7px #0000003b;
+    box-sizing: border-box;
+    padding-left: 5px;
+
+}
