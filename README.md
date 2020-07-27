@@ -6,16 +6,16 @@ A simple Todo App using ReactJS library.
 My First ReactProject
 
 
-Technologies:
+Technologies-->
 
 HTML,
 CSS,
-Git,
-GitHub,
 Javascript,
 nodejs,npm,
 JSX,
 VSCodeIDE,
+Git,
+GitHub
 
 
 Thanks to Debug Meadia
