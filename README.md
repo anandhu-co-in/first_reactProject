@@ -19,11 +19,13 @@ Git,
 GitHub
 
 
-#Commands Cheat Sheet
+
+# Deploying new changes
 
 npm run deploy <-- this deployes the app into this branch
 
-#pushing actual code to master branch
+# pushing actual code to master branch
 
 Do it normally, git add, git push origin master
 
+Git deployment tutorial https://youtu.be/bt0P7rmI2hA
