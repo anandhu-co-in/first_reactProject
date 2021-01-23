@@ -19,4 +19,11 @@ Git,
 GitHub
 
 
-Thanks to Debug Meadia
+#Commands Cheat Sheet
+
+npm run deploy <-- this deployes the app into this branch
+
+#pushing actual code to master branch
+
+Do it normally, git add, git push origin master
+
