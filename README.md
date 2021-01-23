@@ -23,7 +23,7 @@ GitHub
 Notes
 
 
-# `npm start`
+### `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -32,11 +32,11 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 
-# Deploying new changes
+### Deploying new changes
 
 npm run deploy <-- this deployes the app into gh-pages branch
 
-# pushing actual code to master branch
+### pushing actual code to master branch
 
 Do it normally, git add, git push origin master
 
