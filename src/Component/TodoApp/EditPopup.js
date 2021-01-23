@@ -3,11 +3,9 @@ import "./EditPopup.css"
 
 export default class EditPopup extends Component {
 
-
     state={
         editInput:""
     }
-
     
     handlChange=(event)=>{
         this.setState({
@@ -23,3 +21,5 @@ export default class EditPopup extends Component {
         )
     }
 }
+
+// From this child, when calling the parents editItem function,we pass the event e, the key value we got to here through prop from parent, the the input we got here from user
