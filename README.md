@@ -41,3 +41,7 @@ npm run deploy <-- this deployes the app into gh-pages branch
 Do it normally, git add, git push origin master
 
 Git deployment tutorial https://youtu.be/bt0P7rmI2hA
+
+# Preview
+![image](https://user-images.githubusercontent.com/37325402/126798383-4c1784e9-55ca-4de6-9496-455512d31c5a.png)
+
